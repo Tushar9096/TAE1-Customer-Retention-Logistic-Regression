@@ -1,0 +1,1 @@
+Download the IBM Telco Customer Churn CSV from:\nhttps://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv\n\nSave it as `Telco-Customer-Churn.csv` in this folder. The app can also download it automatically.\n
